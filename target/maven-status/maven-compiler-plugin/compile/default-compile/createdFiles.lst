@@ -1,3 +1,10 @@
-com\prepwork\kreadwritemsg\kafka\avro\model\Student.class
-com\prepwork\kreadwritemsg\kafka\avro\model\Student$1.class
-com\prepwork\kreadwritemsg\kafka\avro\model\Student$Builder.class
+com/services/kafkaAvroProdCons/config/KfkaConsumerConfig.class
+com/prepwork/kreadwritemsg/kafka/avro/model/Student.class
+com/services/kafkaAvroProdCons/consumer/KfkaConsumer.class
+com/prepwork/kreadwritemsg/kafka/avro/model/Student$1.class
+com/services/kafkaAvroProdCons/producer/KfkaProducer.class
+com/prepwork/kreadwritemsg/kafka/avro/model/Student$Builder.class
+com/services/kafkaAvroProdCons/kafkaAvroProdConsApplication.class
+com/services/kafkaAvroProdCons/config/KfkaProducerConfig.class
+com/services/kafkaAvroProdCons/service/KfkaProducerService.class
+com/services/kafkaAvroProdCons/controller/KfkaProducerController.class

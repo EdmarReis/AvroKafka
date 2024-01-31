@@ -1,1 +1,8 @@
-C:\Prep-Work\projects\avro-project\kafkaAvroProdCons\target\generated-sources\avro\com\prepwork\kreadwritemsg\kafka\avro\model\Student.java
+/Users/edmarsr/programacao/IdeaProjects/avroKafka/src/main/java/com/services/kafkaAvroProdCons/consumer/KfkaConsumer.java
+/Users/edmarsr/programacao/IdeaProjects/avroKafka/src/main/java/com/services/kafkaAvroProdCons/config/KfkaConsumerConfig.java
+/Users/edmarsr/programacao/IdeaProjects/avroKafka/src/main/java/com/services/kafkaAvroProdCons/producer/KfkaProducer.java
+/Users/edmarsr/programacao/IdeaProjects/avroKafka/src/main/java/com/services/kafkaAvroProdCons/config/KfkaProducerConfig.java
+/Users/edmarsr/programacao/IdeaProjects/avroKafka/target/generated-sources/avro/com/prepwork/kreadwritemsg/kafka/avro/model/Student.java
+/Users/edmarsr/programacao/IdeaProjects/avroKafka/src/main/java/com/services/kafkaAvroProdCons/service/KfkaProducerService.java
+/Users/edmarsr/programacao/IdeaProjects/avroKafka/src/main/java/com/services/kafkaAvroProdCons/controller/KfkaProducerController.java
+/Users/edmarsr/programacao/IdeaProjects/avroKafka/src/main/java/com/services/kafkaAvroProdCons/kafkaAvroProdConsApplication.java

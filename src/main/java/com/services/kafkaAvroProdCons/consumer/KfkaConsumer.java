@@ -7,9 +7,11 @@ import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.kafka.support.Acknowledgment;
 import org.springframework.stereotype.Component;
 
+
 @Component
 @Slf4j
 public class KfkaConsumer {
+
 
     @KafkaListener(topics = "student-data",
             groupId = "group_id",
